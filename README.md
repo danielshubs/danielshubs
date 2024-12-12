@@ -87,7 +87,13 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+      <a href="https://es.stackoverflow.com/users/341755/daniel-s%c3%a1nchez?tab=profile" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" width="50" height="50"/>
+      </a>
+      <br>StackOverflow
+    </td>
+    <td align="center" width="100">
+      <a href="" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
       </a>
       <br>Docker
