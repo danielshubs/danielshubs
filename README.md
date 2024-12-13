@@ -14,7 +14,7 @@
 - 🌍 **Ubicación:** San Sebastián, España.
 - 📚 **Intereses:** Desarrollo web, inteligencia artificial, diseño de sistemas y más.
 - ✨ **Motivación:** Transformar ideas en productos útiles y eficientes.
-- **Idiomas:** Castellano (nativo) - Inglés (nivel avanzado) - Euskera (nivel medio)
+- 🗣 **Idiomas:** Castellano (nativo) - Inglés (nivel avanzado) - Euskera (nivel medio)
 
 ---
 
